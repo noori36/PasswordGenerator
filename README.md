@@ -41,7 +41,7 @@ THEN the password is written to the page
 
 [The URL of the deployed application.](https://noori36.github.io/PasswordGenerator/)
 
-[The URL of the GitHub repository.](https://github.com/noori36/Code-Refactor/)
+[The URL of the GitHub repository.](https://github.com/noori36/PasswordGenerator)
 
 ## Deployment
 
