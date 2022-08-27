@@ -53,12 +53,11 @@ The deployed website linked above was deployed using GitHub Pages.<br />
 Once deployed the application can be viewed in a traditional desktop web browser. <br />
 <br />
 ![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/index.png?raw=true "Optional Title")
-PasswordGenrator/Assets/images/
 
     
 ## Demo
 
-![Alt text](https://github.com/noori36/Code-Refactor/blob/main/assets/images/Horiseon%20Digital%20Marketing.png?raw=true "Optional Title")
+![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-passlength.png?raw=true "Optional Title")
 
 
 ## License
