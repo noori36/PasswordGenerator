@@ -56,13 +56,17 @@ Once deployed the application can be viewed in a traditional desktop web browser
 
     
 ## Demo
-Screenshot of alert to confirm password lenght
+confirm password lenght
 <br><img src="./Assets/images/Confirm-passlength.png" alt="screenshot of alert to confirm password lenght" width="550"/>
-<br>screenshot of alert to confirm Uppercase
+<br>confirm Uppercase
 <br><img src="./Assets/images/Confirm-Uppercase.png" alt="screenshot of alert to confirm Uppercase letter" width="550"/>
-<br><img src="./Assets/images/Confirm-Lowercase.png" alt="screenshot of alert to confirm Lowercase letter" width="550"/>
+<br>confirm lowercase
+<br><img src="./Assets/images/Confirm-Lowercase.png" alt="screenshot of alert to confirm lowercase letter" width="550"/>
+<br>confirm numeric value
 <br><img src="./Assets/images/Confirm-numericValue.png" alt="sscreenshot of alert to confirm numeric value" width="550"/>
+<br>confirm special character
 <br><img src="./Assets/images/Confirm-specialChar.png" alt="screenshot of alert to confirm special character" width="550"/>
+<br>Finall generated password
 <br><img src="./Assets/images/genratedpass.png" alt="screenshot of generated password" width="550"/>
 
 
