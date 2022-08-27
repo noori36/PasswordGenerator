@@ -6,7 +6,7 @@ JavaScript application that generates a random password based on user-selected c
 
 ## Authors
 
-- [@NoreenA](https://github.com/noori36)
+- [NoreenA](https://github.com/noori36)
 
 
 ## User Story
@@ -33,7 +33,7 @@ THEN my input should be validated and at least one character type should be sele
 WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+THEN the password is written to the page
 ```
 
 
