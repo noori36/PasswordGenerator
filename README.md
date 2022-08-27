@@ -39,30 +39,25 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Links
 
-The URL of the deployed application.
+[The URL of the deployed application.](https://noori36.github.io/Code-Refactor/)
 
-The URL of the GitHub repository.
+[The URL of the GitHub repository.](https://github.com/noori36/Code-Refactor/)
+
 ## Deployment
 
-To deploy this project run
+Upload index.html and assets folder to the deployed webserver. The assets folder contains images, JS and CSS files.<br />
 
-```bash
-  npm run deploy
-```
+The deployed website linked above was deployed using GitHub Pages.<br />
 
+## Usage
+Once deployed the application can be viewed in a traditional desktop web browser. <br />
+<br />
+![Alt text](https://github.com/noori36/Code-Refactor/blob/main/assets/images/Horiseon%20Digital%20Marketing.png?raw=true "Optional Title")
 
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
 ## Demo
 
-Insert gif or link to demo
+![Alt text](https://github.com/noori36/Code-Refactor/blob/main/assets/images/Horiseon%20Digital%20Marketing.png?raw=true "Optional Title")
 
 
 ## License
