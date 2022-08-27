@@ -52,7 +52,8 @@ The deployed website linked above was deployed using GitHub Pages.<br />
 ## Usage
 Once deployed the application can be viewed in a traditional desktop web browser. <br />
 <br />
-![Alt text](https://github.com/noori36/Code-Refactor/blob/main/assets/images/Horiseon%20Digital%20Marketing.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/assets/images/indx.png?raw=true "Optional Title")
+PasswordGenrator/Assets/images/
 
     
 ## Demo
