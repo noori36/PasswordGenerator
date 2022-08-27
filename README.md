@@ -57,20 +57,12 @@ Once deployed the application can be viewed in a traditional desktop web browser
     
 ## Demo
 
-![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-passlength.png?raw=true "Optional Title")
-![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-Uppercase.png?raw=true "Optional Title")
-![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-Lowercase.png?raw=true  | width=30 )
-![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-numericValue.png?raw=true "Optional Title")
-![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-specialChar.png?raw=true "Optional Title")
-![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/genratedpass.png?raw=true "Optional Title")
-
-### Screenshots
-<br><img src="./Assets/images/Confirm-passlength.png" alt="screenshot of starting page" width="350"/>
-<br><img src="./Assets/images/Confirm-Uppercase.png" alt="screenshot of header and intro paragraph" width="350"/>
-<br><img src="./Assets/images/Confirm-Lowercase.png" alt="screenshot of input field of specific cocktail" width="350"/>
-<br><img src="./Assets/images/Confirm-numericValue.png" alt="screenshot user inputted drink" width="350"/>
-<br><img src="./Assets/images/Confirm-specialChar.png" alt="screenshot of random drink and insult generator" width="350"/>
-<br><img src="./Assets/images/genratedpass.png" alt="screenshot of underage screen" width="350"/>
+<br><img src="./Assets/images/Confirm-passlength.png" alt="screenshot of alert to confirm password lenght" width="350"/>
+<br><img src="./Assets/images/Confirm-Uppercase.png" alt="screenshot of alert to confirm Uppercase letter" width="350"/>
+<br><img src="./Assets/images/Confirm-Lowercase.png" alt="screenshot of alert to confirm Lowercase letter" width="350"/>
+<br><img src="./Assets/images/Confirm-numericValue.png" alt="sscreenshot of alert to confirm numeric value" width="350"/>
+<br><img src="./Assets/images/Confirm-specialChar.png" alt="screenshot of alert to confirm special character" width="350"/>
+<br><img src="./Assets/images/genratedpass.png" alt="screenshot of generated password" width="350"/>
 
 
 ## License
