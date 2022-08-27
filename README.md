@@ -57,12 +57,12 @@ Once deployed the application can be viewed in a traditional desktop web browser
     
 ## Demo
 
-![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-passlength.png?raw=true "Optional Title")
-![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-Uppercase.png?raw=true "Optional Title")
-![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-Lowercase.png?raw=true "Optional Title")
-![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-numericValue.png?raw=true "Optional Title")
-![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-specialChar.png?raw=true "Optional Title")
-![Alt text]![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-genratedpass.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-passlength.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-Uppercase.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-Lowercase.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-numericValue.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-specialChar.png?raw=true "Optional Title")
+![Alt text](https://github.com/noori36/PasswordGenrator/blob/main/Assets/images/Confirm-genratedpass.png?raw=true "Optional Title")
 
 
 ## License
